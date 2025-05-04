@@ -7,3 +7,4 @@ build/
 *.info
 *_token.txt
 *.env
+build/
