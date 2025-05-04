@@ -1,0 +1,9 @@
+build/
+*.o
+*.a
+*.gcda
+*.gcno
+*.gcov
+*.info
+*_token.txt
+*.env
